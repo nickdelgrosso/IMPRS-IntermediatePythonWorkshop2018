@@ -13,5 +13,14 @@
   - Decorators, Generators, and Context Managers: [Notebook](Day/Generators.ipynb)
   - At the end of the day, we'll put our knowledge to the test by implementing a card game in Python.
   
+
+### Day 1: Test-Driven Development and CLIs
+
+  - Git tutorials: https://www.atlassian.com/git/tutorials
+  - Pytest docs: https://docs.pytest.org/en/latest/
+  - Book on Test-Driven Development: https://www.obeythetestinggoat.com/pages/book.html#toc
+  - Click docs: http://click.pocoo.org/5/
+
+ 
   
   
