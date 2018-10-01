@@ -21,6 +21,11 @@
   - Book on Test-Driven Development: https://www.obeythetestinggoat.com/pages/book.html#toc
   - Click docs: http://click.pocoo.org/5/
 
- 
+### Day 3: Relational Data and Machine Learning
+
+  - SQL Cheat Sheet: https://www.cheatography.com/fetttobse/cheat-sheets/sqlite/
+  - HDFView: https://support.hdfgroup.org/products/java/release/download.html
+  - Scikit Learn Clustering Comparison: http://scikit-learn.org/stable/modules/clustering.html
+  - PyMC3: https://docs.pymc.io/notebooks/posterior_predictive.html
   
   
