@@ -19,7 +19,14 @@
   - Git tutorials: https://www.atlassian.com/git/tutorials
   - Pytest docs: https://docs.pytest.org/en/latest/
   - Book on Test-Driven Development: https://www.obeythetestinggoat.com/pages/book.html#toc
+  
+  
+### Day 2: Packaging and Collaboration Tools
   - Click docs: http://click.pocoo.org/5/
+  - Github workflow: https://guides.github.com/introduction/flow/
+  - Sphinx Docs: http://www.sphinx-doc.org/en/master/
+  - Upload to Pypi with Twine: https://github.com/pypa/twine
+  
 
 ### Day 3: Relational Data and Machine Learning
 
